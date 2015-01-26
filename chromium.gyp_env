@@ -1,0 +1,1 @@
+{'GYP_DEFINES': 'component=shared_library'} # use space to delimit additional defines.
